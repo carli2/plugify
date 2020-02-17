@@ -1,0 +1,19 @@
+{
+  "name": "plugify",
+  "version": "1.0.0",
+  "description": "Plugify =======",
+  "main": "knowledgebase.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carli2/plugify.git"
+  },
+  "author": "Carl-Philip Hänsch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carli2/plugify/issues"
+  },
+  "homepage": "https://github.com/carli2/plugify#readme"
+}
